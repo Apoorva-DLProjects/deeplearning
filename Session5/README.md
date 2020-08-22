@@ -1,8 +1,14 @@
+## Submission by
+Nilanjana Dev Nath (nilanjana.dvnath2015@gmail.com)
+Anand (arghya05@gmail.com)
+Apoorva Pandey (apoorv.pandey@gmail.com)
+Safal Singh (safal.singh@gmail.com)
+
 ## **Code1 - Setup**
 **Target**
 1.  Set up the skeleton with Relu, BatchNorm, GAP etc
 
-**Results**
+**Results** 
 1.  Parameters - 6280
 2.  Best training accuracy- 99.56%
 3.  Best test accuracy - 99.33%
