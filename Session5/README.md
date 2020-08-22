@@ -1,7 +1,7 @@
 ## Submission by
-Nilanjana Dev Nath (nilanjana.dvnath2015@gmail.com)
-Anand (arghya05@gmail.com)
-Apoorva Pandey (apoorv.pandey@gmail.com)
+Nilanjana Dev Nath (nilanjana.dvnath2015@gmail.com),
+Anand (arghya05@gmail.com),
+Apoorva Pandey (apoorv.pandey@gmail.com),
 Safal Singh (safal.singh@gmail.com)
 
 ## **Code1 - Setup**
